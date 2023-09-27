@@ -1,0 +1,14 @@
+
+8
+java:S2189""Add an end condition to this loop.(ÓÔž¨
+=
+java:S2189""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ
+M
+java:S2589"7Remove this expression which always evaluates to "true"(ÓÔž¨
+@	java:S106"+Replace this use of System.out by a logger.(öê×ù
+@	java:S106"+Replace this use of System.out by a logger.(öê×ù
+@	java:S106$"+Replace this use of System.out by a logger.(ÖáöÐ
+N
+java:S3400-"9Remove this method and declare a constant for this value.(¸®Ã'
+G
+java:S1172,",Remove this unused method parameter "input".(“˜–ðýÿÿÿÿ
